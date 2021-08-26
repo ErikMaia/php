@@ -1,0 +1,22 @@
+.cards{
+   width: 100%;
+   height: 160px;
+   align-items: center;
+   border: solid #fd7e14;
+   border-radius: 60px;
+}
+.cards img{
+   height: 150px;
+   justify-self: center;
+   margin-left: 50px;
+}
+.values{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+}
+.values input{
+   width: 60px;
+   text-align: center;
+}
